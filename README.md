@@ -1,1 +1,1 @@
-# foundation.rust-lang.org
+# foundation.dustlang.com
